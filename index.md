@@ -1,7 +1,7 @@
 # CSE110 Lab 1
 ______
 ### Welcome Leeor’s CSE110 Lab 1
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Frady.ucsd.edu%2Fimages%2Fucsd%2520logo.png&imgrefurl=https%3A%2F%2Frady.ucsd.edu%2Fprograms%2Fundergraduate-programs%2Forganizations%2F&tbnid=jc1NLxqvV-GMrM&vet=12ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ..i&docid=HGrh1b9-G_dYNM&w=670&h=670&q=ucsd&hl=en&ved=2ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ)
+![Image](http://picsum.photos/200/200)
 
 
 ```markdown
