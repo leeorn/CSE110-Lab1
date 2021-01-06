@@ -1,6 +1,4 @@
-# CSE110 Lab 1
-______
-## Welcome Leeor’s CSE110 Lab 1
+
 
 
 ![Image](https://jacobsschool.ucsd.edu/sites/default/files/groups/jsoe/img/logos/jacobs-school/print/UCSDLogo_JSOE_BlueGold_Print.jpg)
