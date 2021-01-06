@@ -1,4 +1,6 @@
-## Welcome Leeor's CSE110 Lab 1
+# CSE110 Lab 1
+______
+### Welcome Leeor’s CSE110 Lab 1
 
 You can use the [editor on GitHub](https://github.com/leeorn/CSE110-Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
