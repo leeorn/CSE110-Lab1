@@ -18,7 +18,7 @@ In my spare time (*mainly during breaks*) I enjoy to:
 My moto is
 > Live and let be live
 
-One of my favorite course I took at UCSD was *ECE 148 - Intro to Autonomous Cars* and this is the [project] (https://guitar.ucsd.edu/maeece148/index.php/2020WinterTeam4) my team and I worked
+One of my favorite course I took at UCSD was *ECE 148 - Intro to Autonomous Cars* and this is the [project](https://guitar.ucsd.edu/maeece148/index.php/2020WinterTeam4) my team and I worked
 
 Funny code snip that I found 
 ```python
