@@ -3,7 +3,7 @@ ______
 ### Welcome Leeor’s CSE110 Lab 1
 ![Image](http://picsum.photos/200/200)
 
-![Image](https://jacobsschool.ucsd.edu/sites/default/files/groups/jsoe/UCSD-JacobsSchool-USpace_explainer_1%404x_0.png)
+![Image](https://jacobsschool.ucsd.edu/sites/default/files/groups/jsoe/img/logos/jacobs-school/print/UCSDLogo_JSOE_BlueGold_Print.jpg)
 
 
 ```markdown
