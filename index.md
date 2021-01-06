@@ -1,6 +1,12 @@
 # CSE110 Lab 1
 ______
 ### Welcome Leeor’s CSE110 Lab 1
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Frady.ucsd.edu%2Fimages%2Fucsd%2520logo.png&imgrefurl=https%3A%2F%2Frady.ucsd.edu%2Fprograms%2Fundergraduate-programs%2Forganizations%2F&tbnid=jc1NLxqvV-GMrM&vet=12ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ..i&docid=HGrh1b9-G_dYNM&w=670&h=670&q=ucsd&hl=en&ved=2ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ)
+
+
+```markdown
+AT THE END DELETE EVERYTHING IN THIS BOX
+
 
 You can use the [editor on GitHub](https://github.com/leeorn/CSE110-Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -27,7 +33,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 ![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Frady.ucsd.edu%2Fimages%2Fucsd%2520logo.png&imgrefurl=https%3A%2F%2Frady.ucsd.edu%2Fprograms%2Fundergraduate-programs%2Forganizations%2F&tbnid=jc1NLxqvV-GMrM&vet=12ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ..i&docid=HGrh1b9-G_dYNM&w=670&h=670&q=ucsd&hl=en&ved=2ahUKEwju7ZaT34buAhURiZ4KHXZeBy8QMygDegUIARCyAQ)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -38,3 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
