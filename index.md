@@ -26,6 +26,6 @@ import matplotlib.pyplpot as np
 ```
 Good luck to the poor developer :rofl:
 
-Below is a (relative) link to a picture of my dog, [Ushu](images/ushu.jpeg)
+This is a (relative) link to a picture of my dog, [Ushu](images/ushu.jpeg)
 
 And this is a random image, to keep things fun ![Image](http://picsum.photos/200/200)
